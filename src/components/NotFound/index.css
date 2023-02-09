@@ -1,0 +1,12 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-text {
+  font-family: Bree Serif;
+  font-size: 40px;
+  color: #ffffff;
+}
